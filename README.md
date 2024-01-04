@@ -1,4 +1,4 @@
-![image](https://github.com/yhnbgf/CyberInspector/assets/89644856/8cc737d2-047e-49af-87dd-ff3b4a3f6820)![image](https://github.com/yhnbgf/CyberInspector/assets/89644856/62ee66ae-16cd-4765-8c4d-a31eae52b692)# CyberInspector
+# CyberInspector
 It's an automated Audit Tool. It scans for a HTTP misconfiguration in any given Keycloak Implementation and performs a Cookie Hijack attack. It stands as a Proof-of-Concept tool, that performs an automated Red Team Operation to highlight security lapses in Keycloak deployments. CyberInspector alerts developers of unsecured software to improve cybersecurity defenses.
 
 ## Note
